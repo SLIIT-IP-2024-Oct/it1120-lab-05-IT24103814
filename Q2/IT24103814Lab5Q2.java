@@ -43,8 +43,9 @@ public class IT24103814Lab5Q2
             System.out.println("Prize is a : Headphone");
             break;
             
-		    
-		  }		  
-		}
+ 		    
+         }
+	input.close();
+        }
     }
 }
